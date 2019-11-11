@@ -3,4 +3,4 @@
 * [CMYK](https://kevinmatarodriguez.github.io/CMYK/)
 * [Broom](https://kevinmatarodriguez.github.io/Broom/)
 * [Autor](https://kevinmatarodriguez.github.io/Autor/)
-* [Targetes](https://kevinmatarodriguez.github.io/-targetes/)
+* [Targetes](https://kevinmatarodriguez.github.io/Targetes/)
